@@ -27,9 +27,3 @@ A simple and intuitive **To-Do List Web App** built with **HTML, CSS, and JavaSc
 1️⃣ Clone the repository:  
 ```bash
 git clone https://github.com/your-github-username/todo-list.git
-
-
-
-
-
-
